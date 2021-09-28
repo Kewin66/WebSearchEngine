@@ -1,0 +1,26 @@
+SIMPLE BFS APPROACH
+1. Program taken in the query to be searched and download the seed pages from google. Downloaded seed pages are enqueued into thread-safe queue to get the crawler started with.
+2. Seen() set is used to keep track of visited webpages.
+3. Then thread pool is created and assigned to process respective URLs.
+4. Process of URLs include, parsing robot.txt file and verify if link can be crawled.
+5. If URL is allowed to crawl then page is downloaded to parse all hyperlinks.
+6. Then this hyperlink is enqueued into queue.
+7. Wait till all threads are completed to exit main program.
+
+Shortcomings:
+1. Takes significant delay and can crawl only 50 pages at shorter time frame.
+
+WEB CRAWLER WITH NOVELTY:
+1. Program taken in the query to be searched and download the seed pages from google. Downloaded seed pages are enqueued into heapdict python DS to get the crawler started with.
+2. Crawled_Score() dict  is used to keep track of webpages crawled in the particular domain.
+3. Update novelty() dict is used to compute the novelty of all web pages that needs to be updated when top of queue is popped and to verify if it is still the top of queue.
+4. Process of URLs include, parsing robot.txt file and verify if link can be crawled.
+5. If URL is allowed to crawl then page is downloaded to parse all hyperlinks.
+6. Then this hyperlink is enqueued into queue.
+7. All links that are pointed to in the queue are updated using update_Importance().
+8. Wait until heapdict becomes empty.
+
+SHORTCOMINGS;
+1. Couldn?t implement multi-thread due to heapdict.
+2. When program is parallelized, heapdict enters into race condition despite adding lock
+

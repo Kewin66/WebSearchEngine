@@ -1,0 +1,9 @@
+(Paris Texas with Novelty)TIME, WEB URL CRAWLED, PRIORITY SCORE,  STATUS , SIZE10:11:39,281 Starting new HTTPS connection (1): www.google.com:443
+10:11:39,413 https://www.google.com:443 "GET /search?q=paris+texas&num=11&hl=en HTTP/1.1" 200 None
+10:11:52,49 https://paristexas.it/ ,2.0 ,200 , 440408 , 10:11:52.049146
+10:11:53,750 https://twitter.com/ParisTexasUSA?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor ,2.0 ,200 , 80312 , 10:11:53.750787
+10:12:17,427 https://paristexasco.com/ ,2.0 ,200 , 886689 , 10:12:17.427361
+10:12:27,203 https://www.rogerebert.com/reviews/great-movie-paris-texas-1984 ,2.0 ,200 , 56098 , 10:12:27.203018
+10:13:00,256 https://www.paristexas.gov/ ,2.0 ,200 , 95981 , 10:13:00.256243
+10:13:18,605 https://www.tourtexas.com/destinations/paris ,2.0 ,200 , 97588 , 10:13:18.605144
+10:16:29,154 https://en.wikipedia.org/wiki/Paris,_Texas_(film) ,2.0 ,200 , 237085 , 10:16:29.154778

@@ -1,0 +1,49 @@
+(Brooklyn Union)TIME, WEB URL CRAWLED,  STATUS , SIZE
+09:36:11,66 https://www.nationalgridus.com/regionalized/Billing-Payments/Ways-to-Pay , 302 ,
+09:36:11,77 https://www.nationalgridus.com/ , 302 , 
+09:36:11,109 https://en.wikipedia.org/wiki/KeySpan ,      200      , 47900
+09:36:11,135 https://www.bloomberg.com/profile/company/80132MF:US ,      200      , 199304
+09:36:11,141 https://www.nationalgridus.com/our-company/ ,      200      , 133864
+09:36:11,207 https://online.nationalgridus.com/eservice_enu , 302 , 
+09:36:11,468 https://www.nationalgridus.com/our-company/#main-page-content ,      200      , 133864
+09:36:11,506 https://www.bloomberg.com/profile/company/80132MF:US#skip-to-main-content ,      200      , 199304
+09:36:11,517 https://en.wikipedia.org/wiki/KeySpan#mw-head ,      200      , 47900
+09:36:11,764 https://www.dnb.com/business-directory/company-profiles.the_brooklyn_union_gas_company.89887e0b5ad7b8157fc9e5f233efd2a8.html#related-companies ,      200      , 369991
+09:36:11,984 https://www.dnb.com/business-directory/company-profiles.the_brooklyn_union_gas_company.89887e0b5ad7b8157fc9e5f233efd2a8.html#credit-reports ,      200      , 369992
+09:36:11,996 https://www.dnb.com/business-directory/company-profiles.the_brooklyn_union_gas_company.89887e0b5ad7b8157fc9e5f233efd2a8.html ,      200      , 369993
+09:36:12,53 ERROR
+09:36:12,267 https://www.nationalgridus.com/our-company/#ngcw-main-navigation ,      200      , 133864
+09:36:27,379 https://www.bloomberg.com/profile/company/80132MF:US#that-jump-content--default ,      200      , 199304
+09:36:28,51 https://en.wikipedia.org/wiki/KeySpan#searchInput ,      200      , 47900
+09:36:29,75 https://www.bloomberg.com/company/?utm_source=bloomberg-menu&utm_medium=markets ,      200      , 101500
+09:36:33,971 https://www.bloomberg.com/profile/company/80132MF:US#skip-to-main-content ,      200      , 199304
+09:36:34,547 https://en.wikipedia.org/wiki/KeySpan#mw-head ,      200      , 47900
+09:36:36,75 https://en.wikipedia.org/wiki/File:Keyspan.png ,      200      , 34859
+09:36:36,372 https://www.bloomberg.com/profile/company/80132MF:US#that-jump-content--default ,      200      , 199304
+09:36:36,717 https://www.bloomberg.com/professional/contact-menu/?utm_source=bloomberg-menu&utm_medium=markets&bbgsum=DG-WS-PROF-DEMO-bbgmenu ,      200      , 160421
+09:36:45,647 https://bba.bloomberg.net/?utm_source=bloomberg-menu&utm_medium=markets ,      200      , 15304
+09:36:47,385 https://en.wikipedia.org/wiki/KeySpan#searchInput ,      200      , 47900
+09:36:53,159 https://en.wikipedia.org/wiki/Public_company ,      200      , 112749
+09:36:55,785 https://www.bloomberg.com/professional/support/?utm_source=bloomberg-menu&utm_medium=markets ,      200      , 161657
+09:36:56,551 https://www1.nationalgridus.com/outages ,      200      , 122487
+09:37:10,271 https://www.nationalgridus.com/our-company/#main-page-content ,      200      , 133864
+09:37:11,360 https://www.bloomberg.com/professional/contact-menu/?utm_source=bloomberg-menu&utm_medium=markets&bbgsum=DG-WS-PROF-DEMO-bbgmenu ,      200      , 160421
+09:37:12,899 https://en.wikipedia.org/wiki/File:Keyspan.png ,      200      , 34859
+09:37:17,139 https://en.wikipedia.org/wiki/Ticker_symbol ,      200      , 92017
+09:37:23,101 https://www.bloomberg.com/professional/downloads/?utm_source=bloomberg-menu&utm_medium=markets , 301 , 
+09:37:23,164 https://www.nationalgridus.com/our-company/#ngcw-main-navigation ,      200      , 133864
+09:37:23,749 http://www.dnbcountryrisk.com/ , 404 , 
+09:37:23,809 https://www.nationalgridus.com/Our-Company/ ,      200      , 133864
+09:37:28,649 https://en.wikipedia.org/wiki/Public_company ,      200      , 112749
+09:37:39,987 https://en.wikipedia.org/wiki/New_York_Stock_Exchange ,      200      , 279587
+09:37:44,288 https://credit.dnb.com/login ,      200      , 6604
+09:37:44,340 https://www.nationalgridus.com/our-company/#main-page-content ,      200      , 133864
+09:37:57,361 https://www.nationalgridus.com/regionalized/Contact-Us/ , 302 , 
+09:37:57,456 https://en.wikipedia.org/wiki/Ticker_symbol ,      200      , 92017
+09:38:06,575 https://www1.nationalgridus.com/outages ,      200      , 122487
+09:38:15,512 https://creditreporter.dnb.com/ ,      200      , 3534
+09:38:31,377 https://en.wikipedia.org/wiki/National_Grid_plc#United_States ,      200      , 199636
+09:38:32,294 https://www.nationalgridus.com/Our-Company/ ,      200      , 133864
+09:38:51,14 https://en.wikipedia.org/wiki/New_York_Stock_Exchange ,      200      , 279587
+09:40:53,673 https://en.wikipedia.org/wiki/MetroTech_Center ,      200      , 72792
+09:41:33,148 https://service.bloomberg.com/portal/sessions/new?utm_source=bloomberg-menu&utm_medium=markets ,      200      , 234873

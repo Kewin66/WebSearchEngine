@@ -1,0 +1,67 @@
+x(Brooklyn Union- with Novelty)TIME, WEB URL CRAWLED, PRIORITY SCORE,  STATUS , SIZE10:06:18,225 Starting new HTTPS connection (1): www.google.com:443
+10:06:18,350 https://www.google.com:443 "GET /search?q=brooklyn+union&num=11&hl=en HTTP/1.1" 200 None
+10:06:24,424 https://casetext.com/case/conway-v-brooklyn-union-gas-company-1 ,2.0 ,200 , 24246 , 10:06:24.424369
+10:06:46,700 https://en.wikipedia.org/wiki/KeySpan ,2.0 ,200 , 47900 , 10:06:46.700910
+10:06:55,385 https://www.501union.com/ ,2.0 ,200 , 303916 , 10:06:55.385716
+10:07:06,106 https://www.fitchratings.com/research/corporate-finance/the-brooklyn-union-gas-company-subsidiary-of-national-grid-plc-23-12-2020 ,2.0 ,200 , 257565 , 10:07:06.106243
+10:07:06,167 https://www.nationalgridus.com/ ,2.0 ,302 , 130 , 130 , 10:07:06.167063
+10:07:14,233 https://www.encyclopedia.com/books/politics-and-business-magazines/brooklyn-union-gas ,2.0 ,200 , 108227 , 10:07:14.233101
+10:07:28,848 https://www.dnb.com/business-directory/company-profiles.the_brooklyn_union_gas_company.89887e0b5ad7b8157fc9e5f233efd2a8.html ,2.0 ,200 , 369994 , 10:07:28.848519
+10:07:31,381 https://www.unionhotelbrooklyn.com/ ,2.0 ,200 , 99238 , 10:07:31.381218
+10:07:31,640 https://www.fitchratings.com/entity/the-brooklyn-union-gas-company-80089034 ,1.5 ,200 , 247183 , 10:07:31.640061
+10:07:34,368 https://casetext.com/case/mcdougald-v-garber-1 ,1.5 ,200 , 60736 , 10:07:34.368693
+10:07:36,469 https://casetext.com/case/maracallo-v-board-of-education-city-of-ny ,1.3333333333333333 ,200 , 58889 , 10:07:36.469607
+10:07:37,76 https://casetext.com/statute/consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-r4533-b-proof-of-payment-by-joint-tort-feasor ,1.25 ,200 , 14021 , 10:07:37.076309
+10:07:37,446 https://casetext.com/statute/consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-r4534-standard-of-measurement-used-by-surveyor ,1.2 ,200 , 14010 , 10:07:37.446117
+10:07:37,832 https://casetext.com/statute/consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-r4536-proof-of-writing-by-comparison-of-handwriting ,1.1666666666666667 ,200 , 13684 , 10:07:37.831967
+10:07:38,214 https://casetext.com/statute/consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-r4537-proof-of-writing-subscribed-by-witness ,1.1428571428571428 ,200 , 13664 , 10:07:38.214648
+10:07:38,616 https://casetext.com/statute/consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-r4538-acknowledged-proved-or-certified-writing-conveyance-of-real-property-without-the-state ,1.125 ,200 , 14439 , 10:07:38.616701
+10:07:39,33 https://casetext.com/statute/consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-r4539-reproductions-of-original ,1.1111111111111112 ,200 , 14823 , 10:07:39.033234
+10:07:39,482 https://casetext.com/statute/consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-r4540-authentication-of-official-record-of-court-or-government-office-in-the-united-states ,1.1 ,200 , 16575 , 10:07:39.482105
+10:07:39,944 https://casetext.com/statute/consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-r4540-a-presumption-of-authenticity-based-on-a-partys-production-of-material-authored-or-otherwise-created-by-the-party ,1.0909090909090908 ,200 , 14731 , 10:07:39.944935
+10:07:40,419 https://casetext.com/statute/consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-r4541-proof-of-proceedings-before-justice-of-the-peace ,1.0833333333333333 ,200 , 15058 , 10:07:40.419278
+10:07:40,861 https://casetext.com/statute/consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-r4542-proof-of-foreign-records-and-documents ,1.0769230769230769 ,200 , 15482 , 10:07:40.861818
+10:07:41,330 https://casetext.com/statute/consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-4543-proof-of-facts-or-writing-by-methods-other-than-those-authorized-in-this-article ,1.0714285714285714 ,200 , 13927 , 10:07:41.330828
+10:07:41,749 https://casetext.com/statute/consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-4544-contracts-in-small-print ,1.0666666666666667 ,200 , 14345 , 10:07:41.749567
+10:07:42,175 https://casetext.com/statute/consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-4545-admissibility-of-collateral-source-of-payment ,1.0625 ,200 , 15819 , 10:07:42.175536
+10:07:42,564 https://casetext.com/statute/consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-4546-loss-of-earnings-and-impairment-of-earning-ability-in-actions-for-medical-dental-or-podiatric-malpractice ,1.0588235294117647 ,200 , 15201 , 10:07:42.564743
+10:07:42,954 https://casetext.com/statute/consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-4547-compromise-and-offers-to-compromise ,1.0555555555555556 ,200 , 14534 , 10:07:42.954882
+10:07:43,361 https://casetext.com/statute/consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-4548-privileged-communications-electronic-communication-thereof ,1.0526315789473684 ,200 , 13634 , 10:07:43.361390
+10:07:45,59 https://casetext.com/pdf-email?slug=consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-4548-privileged-communications-electronic-communication-thereof ,1.05 ,404 , 130954 , 130954 , 10:07:45.059559
+10:07:46,606 https://casetext.com/pdf-email?slug=consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-4547-compromise-and-offers-to-compromise ,1.0476190476190477 ,404 , 130954 , 130954 , 10:07:46.606249
+10:07:48,102 https://casetext.com/pdf-email?slug=consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-4546-loss-of-earnings-and-impairment-of-earning-ability-in-actions-for-medical-dental-or-podiatric-malpractice ,1.0454545454545454 ,404 , 130954 , 130954 , 10:07:48.101922
+10:07:49,374 https://casetext.com/pdf-email?slug=consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-4545-admissibility-of-collateral-source-of-payment ,1.0434782608695652 ,404 , 130954 , 130954 , 10:07:49.374911
+10:07:52,955 https://casetext.com/pdf-email?slug=consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-4543-proof-of-facts-or-writing-by-methods-other-than-those-authorized-in-this-article ,1.04 ,404 , 130954 , 130954 , 10:07:52.955457
+10:07:54,266 https://casetext.com/pdf-email?slug=consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-r4542-proof-of-foreign-records-and-documents ,1.0384615384615385 ,404 , 130954 , 130954 , 10:07:54.266518
+10:07:56,130 https://casetext.com/pdf-email?slug=consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-r4541-proof-of-proceedings-before-justice-of-the-peace ,1.037037037037037 ,404 , 130954 , 130954 , 10:07:56.130828
+10:07:57,380 https://casetext.com/pdf-email?slug=consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-r4540-a-presumption-of-authenticity-based-on-a-partys-production-of-material-authored-or-otherwise-created-by-the-party ,1.0357142857142858 ,404 , 130954 , 130954 , 10:07:57.380010
+10:07:58,900 https://casetext.com/pdf-email?slug=consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-r4540-authentication-of-official-record-of-court-or-government-office-in-the-united-states ,1.0344827586206897 ,404 , 130954 , 130954 , 10:07:58.899988
+10:08:04,270 https://casetext.com/pdf-email?slug=consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-r4537-proof-of-writing-subscribed-by-witness ,1.03125 ,404 , 130954 , 130954 , 10:08:04.270107
+10:08:08,139 https://casetext.com/pdf-email?slug=consolidated-laws-of-new-york/chapter-civil-practice-law-and-rules/article-45-evidence/section-r4534-standard-of-measurement-used-by-surveyor ,1.0294117647058822 ,404 , 130954 , 130954 , 10:08:08.139691
+10:08:13,565 https://casetext.com/statute/consolidated-laws-of-new-york ,1.0285714285714285 ,200 , 67332 , 10:08:13.565849
+10:08:21,534 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-uniform-district-court ,1.0256410256410255 ,404 , 130954 , 130954 , 10:08:21.534904
+10:08:29,454 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-transportation ,1.0232558139534884 ,404 , 130954 , 130954 , 10:08:29.454504
+10:08:31,600 https://casetext.com/statute/consolidated-laws-of-new-york?searchWithin=true ,1.0222222222222221 ,200 , 67332 , 10:08:31.600721
+10:08:33,509 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-alcoholic-beverage-control ,1.0217391304347827 ,404 , 130954 , 130954 , 10:08:33.509186
+10:08:35,537 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-surrogates-court-procedure ,1.0212765957446808 ,404 , 130954 , 130954 , 10:08:35.537297
+10:08:37,479 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-defense-emergency-act-1951 ,1.0208333333333333 ,404 , 130954 , 130954 , 10:08:37.479032
+10:08:39,59 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-agriculture-and-markets ,1.0204081632653061 ,404 , 130954 , 130954 , 10:08:39.059891
+10:08:46,825 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-banking ,1.0188679245283019 ,404 , 130954 , 130954 , 10:08:46.825276
+10:08:54,443 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-boxing-sparring-and-wrestling ,1.0175438596491229 ,404 , 130954 , 130954 , 10:08:54.443472
+10:08:56,42 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-business-corporation ,1.0172413793103448 ,404 , 130954 , 130954 , 10:08:56.042685
+10:09:02,56 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-workers-compensation ,1.0163934426229508 ,404 , 130954 , 130954 , 10:09:02.056351
+10:09:05,512 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-real-property-actions-and-proceedings ,1.0158730158730158 ,404 , 130954 , 130954 , 10:09:05.512531
+10:09:07,508 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-general-construction ,1.015625 ,404 , 130954 , 130954 , 10:09:07.508742
+10:09:11,435 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-county ,1.0151515151515151 ,404 , 130954 , 130954 , 10:09:11.435633
+10:09:13,391 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-correction ,1.0149253731343284 ,404 , 130954 , 130954 , 10:09:13.391027
+10:09:14,878 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-cooperative-corporations ,1.0147058823529411 ,404 , 130954 , 130954 , 10:09:14.878663
+10:09:16,306 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-civil-service ,1.0144927536231885 ,404 , 130954 , 130954 , 10:09:16.306257
+10:09:22,140 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-debtor-and-creditor ,1.0138888888888888 ,404 , 130954 , 130954 , 10:09:22.140226
+10:09:23,985 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-criminal-procedure ,1.0136986301369864 ,404 , 130954 , 130954 , 10:09:23.985625
+10:09:27,681 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-private-housing-finance ,1.0133333333333334 ,404 , 130954 , 130954 , 10:09:27.681495
+10:09:31,509 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-development-of-port-of-new-york ,1.0129870129870129 ,404 , 130954 , 130954 , 10:09:31.509455
+10:09:37,201 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-domestic-relations ,1.0125 ,404 , 130954 , 130954 , 10:09:37.201508
+10:09:47,241 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-environmental-conservation ,1.011764705882353 ,404 , 130954 , 130954 , 10:09:47.240978
+10:09:49,26 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-eminent-domain-procedure ,1.0116279069767442 ,404 , 130954 , 130954 , 10:09:49.026489
+10:09:55,108 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-employers-liability ,1.0112359550561798 ,404 , 130954 , 130954 , 10:09:55.108251
+10:10:02,801 https://casetext.com/statute/statute/consolidated-laws-of-new-york/chapter-expanded-health-care-coverage-act ,1.010752688172043 ,404 , 130954 , 130954 , 10:10:02.801663
